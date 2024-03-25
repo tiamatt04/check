@@ -1,0 +1,46 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"О компании", 
+		"/site_ur/company/index.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Руководство", 
+		"/site_ur/company/management.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Миссия и стратегия", 
+		"/site_ur/company/mission.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"История", 
+		"/site_ur/company/history.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Вакансии", 
+		"/site_ur/company/vacancies.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Отзывы", 
+		"/site_ur/company/reviews/index.php", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

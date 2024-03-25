@@ -1,0 +1,32 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Отзывы", 
+		"/site_ur/company/reviews/index.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Контакты", 
+		"/site_ur/contacts/index.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Руководство", 
+		"/site_ur/company/management.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"История", 
+		"/site_ur/company/history.php", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

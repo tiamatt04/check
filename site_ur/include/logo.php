@@ -1,0 +1,1 @@
+<a href="/site_ur/index.php">Мебельный магазин</a>

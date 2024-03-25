@@ -1,0 +1,53 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"", 
+		"/site_ur", 
+		Array(), 
+		Array("IMG"=>"/bitrix/templates/.default/images/nv_home.png"), 
+		"" 
+	),
+	Array(
+		"Компания", 
+		"company/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Новости", 
+		"/site_ur/news/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Каталог", 
+		"/site_ur/products/index.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Акции", 
+		"/site_ur/sales", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Партнерам", 
+		"/site_ur/partners/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Контакты", 
+		"/site_ur/contacts/index.php", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

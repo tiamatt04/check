@@ -1,0 +1,29 @@
+
+
+/* Start:/bitrix/components/bitrix/news.list/templates/table/style.css?1707436873241*/
+div.news-list img.preview-picture
+{
+	float:left;
+	margin:0 4px 6px 0;
+}
+
+p.news-item
+{
+	margin:0;
+	margin-bottom:15px;
+}
+
+.news-date-time
+{
+	font-size:95%;
+	display:block;
+	color:#82929a;
+}
+
+.preview-picture {
+
+	border: 1px solid #E4E7E9;
+}
+
+/* End */
+/* /bitrix/components/bitrix/news.list/templates/table/style.css?1707436873241 */

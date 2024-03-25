@@ -1,0 +1,1 @@
+<img src="/site_ur/include/bx_default_logo.gif" alt="" />

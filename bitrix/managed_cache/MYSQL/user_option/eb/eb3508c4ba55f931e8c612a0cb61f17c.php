@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001710774483';
+$dateexpire = '001710778083';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:11:{s:40:"options_42a9ad29039146e2fde50754fb2ae513";a:4:{s:3:"pin";s:5:"false";s:9:"transform";s:5:"false";s:3:"top";s:5:"false";s:4:"left";s:5:"false";}s:39:"size_/bitrix/admin/public_menu_edit.php";a:2:{s:5:"width";s:4:"1015";s:6:"height";s:3:"562";}s:32:"size_bx_component_properties_res";a:2:{s:5:"width";s:4:"1344";s:6:"height";s:3:"768";}s:38:"size_/bitrix/admin/component_props.php";a:2:{s:5:"width";s:4:"1268";s:6:"height";s:3:"545";}s:40:"options_27fe474d6be14407cb14297aa1f9b1fe";a:4:{s:3:"pin";s:5:"false";s:3:"top";s:5:"false";s:4:"left";s:5:"false";s:9:"transform";s:5:"false";}s:40:"options_0e4ba7884794372eb1146b493eff5d1d";a:2:{s:3:"pin";s:4:"true";s:9:"transform";s:5:"false";}s:40:"options_6537241646533dbff9780fedb9fa143d";a:4:{s:3:"pin";s:5:"false";s:3:"top";s:5:"false";s:4:"left";s:5:"false";s:9:"transform";s:5:"false";}s:40:"options_f9fb530b85221a576036c074735d560f";a:4:{s:3:"pin";s:5:"false";s:9:"transform";s:5:"false";s:3:"top";s:5:"false";s:4:"left";s:5:"false";}s:17:"options_undefined";a:4:{s:3:"pin";s:9:"undefined";s:3:"top";s:5:"false";s:4:"left";s:5:"false";s:9:"transform";s:5:"false";}s:39:"size_/bitrix/admin/public_file_edit.php";a:2:{s:5:"width";s:4:"1214";s:6:"height";s:3:"623";}s:40:"options_7b376b46734e767dded64315efbfb1ea";a:2:{s:3:"pin";s:4:"true";s:9:"transform";s:5:"false";}}}';
+return true;
+?>
